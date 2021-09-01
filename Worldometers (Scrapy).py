@@ -11,7 +11,7 @@ class WorldometersSpider(scrapy.Spider):
         rows = response.xpath('//tr')
 
         for row in rows:
-            # Extracting title and country names
+            # Extracting title, country names and population
             # title = response.xpath('//h1/text()').get()
             countries = row.xpath('./td/a/text()').get()
             population = row.xpath('./td[3]/text()').get()
