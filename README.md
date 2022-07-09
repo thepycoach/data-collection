@@ -11,7 +11,7 @@ https://frank-andrade.medium.com/list/web-scraping-in-python-d19defa033fd
 You can find more free content about Python and data science on my Medium articles and YouTube videos.
 
 - Medium: https://frank-andrade.medium.com/
-- YouTube (only content in Spanish): https://www.youtube.com/c/AndradeFrank/videos
+- YouTube: https://www.youtube.com/c/FrankAndrade5
 
 2. Spanish 🇪🇸
 
